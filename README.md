@@ -1,22 +1,22 @@
 <!-- Header -->
 <h1 align="center">My Code in Pixels</h1>
 <div align="center">
-  <img src="https://github.com/GinoGits/GinoGits/blob/main/assets/GinoGit.PNG?raw=true" align="center" style="width: 50%;" />
+  <img src="https://github.com/GinoGits/GinoGits/blob/main/Assets/GinoGit.png?raw=true" align="center" style="width: 50%;" />
 </div>
 <!-- Social badges -->
 <div align="center">
   <br>
   <a href="https://twitter.com/GinoGit">
-    <img src="https://github.com/GinoGits/GinoGits/blob/main/assets/twitter.png?raw=true" align="center" style="width: 5%;" />
+    <img src="https://github.com/GinoGits/GinoGits/blob/main/Assets/twitter.png?raw=true" align="center" style="width: 5%;" />
   </a>
   <a href="https://www.linkedin.com/in/GinoGit/">
-    <img src="https://github.com/GinoGits/GinoGits/blob/main/assets/linkedin.png?raw=true" align="center" style="width: 5%;" />
+    <img src="https://github.com/GinoGits/GinoGits/blob/main/Assets/linkedin.png?raw=true" align="center" style="width: 5%;" />
   </a>
    <a href="https://open.spotify.com/user/31gjx5fqutqs43vstcqw6nv7pmva?si=f0975b130e584c5f">
-    <img src="https://github.com/GinoGits/GinoGits/blob/main/assets/spotify.png?raw=true" align="center" style="width: 5%;" />
+    <img src="https://github.com/GinoGits/GinoGits/blob/main/Assets/spotify.png?raw=true" align="center" style="width: 5%;" />
   </a>
    <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
-    <img src="https://github.com/GinoGits/GinoGits/blob/main/assets/web.png?raw=true" align="center" style="width: 5%;" />
+    <img src="https://github.com/GinoGits/GinoGits/blob/main/Assets/web.png?raw=true" align="center" style="width: 5%;" />
   </a>
 </div>
 <!-- Introduction -->
