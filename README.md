@@ -3,6 +3,8 @@
 <div align="center">
   <img src="https://github.com/GinoGits/GinoGits/blob/main/Assets/GinoGit.png?raw=true" align="center" style="width: 50%;" />
 </div>
+
+
 <!-- Social badges -->
 <div align="center">
   <br>
@@ -19,6 +21,8 @@
     <img src="https://github.com/GinoGits/GinoGits/blob/main/Assets/web.png?raw=true" align="center" style="width: 5%;" />
   </a>
 </div>
+
+
 <!-- Introduction -->
 <div align="center">
   <br>
@@ -29,17 +33,33 @@
   <br>
   <p>Want to know more about me? Reach out to me at <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">My Page</a></p>
 </div>
+
+
 <!-- GitHub Stats -->
 <div align="center">
+  <br>
+ <div align="center">
   <br>
   <h2>📊 GitHub Stats</h2>
   <br>
   <a href="https://github.com/GinoGits">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=GinoGits&show_icons=true&theme=dracula" alt="GinoGit's GitHub Stats" />
-  </a>
-  <br>
-  <br>
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=GinoGits&theme=dracula&show_icons=true&hide_border=false&count_private=true" alt="GinoGit's GitHub Stats" />
+    </a>
+    <br>
+    <br>
+    <a href="https://github.com/GinoGits">
+      <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=GinoGits&theme=dracula&hide_border=false" />
+    </a>
+    <br>
+    <br>
+   <a href="https://github.com/GinoGits">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GinoGits&theme=dracula&hide_border=false" />
+</a>
+<br>
+<br>
 </div>
+
+
 <!-- Rick and Morty Quote -->
 <div align="center">
   <br>
