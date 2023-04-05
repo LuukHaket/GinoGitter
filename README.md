@@ -31,7 +31,7 @@
   <p>I would describe myself as a full-stack wizard.</p>
   <p>My ultimate quest is to transform user-centered designs into websites or apps that run like they're on fire, with pixels so perfect, you'll think they were crafted by pixelated unicorns.</p>
   <br>
-  <p>Want to know more about me? Reach out to me at <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">My Page</a></p>
+  <p>Want to know more about me? Reach out to me at <a href="https://www.ginogit.com">My Page</a></p>
 </div>
 
 
